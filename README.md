@@ -53,7 +53,7 @@ Click on each cell to run individually:
 
 Running this cell plots the components of the forecasting so that you can get a better understanding of the data.
 
-![Code Example]()
+![Code Example](https://github.com/talibkateeb/MercadoLibre-Time-Series-Forecasting/blob/main/Example-code.png)
 
 ---
 
